@@ -8,5 +8,5 @@ https://t.co/pBlsSOp9iJ https://twitter.com/holden/status/1315133456297254912?s=
 
 Tweet:
 
-![Holden Tweet](/images/Screenshot_20201011-084952.png =12x7)
+![Holden Tweet](/images/Screenshot_20201011-084952.png | width=100)
 
