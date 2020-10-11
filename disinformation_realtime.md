@@ -8,6 +8,6 @@ https://t.co/pBlsSOp9iJ https://twitter.com/holden/status/1315133456297254912?s=
 
 Tweet:
 
-<img src="/images/Screenshot_20201011-084952.png" width="250" height="250"/>
+<img src="/images/Screenshot_20201011-084952.png" width="250"/>
 
 
