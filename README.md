@@ -1,4 +1,4 @@
-# Data Ethics Notes
+# Data Ethics
 
 
 ## Courses:
