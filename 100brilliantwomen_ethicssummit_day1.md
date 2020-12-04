@@ -18,9 +18,10 @@ Goal: generation equality in the digital space
 # Meredith Whittaker
 Fireside Chat
 
-Google and Timnit Gebru
-Timnit is a legendary manager at Google
-This is a pattern.
+- Google and Timnit Gebru  
+	- Timnit is a legendary manager at Google
+	- This is a pattern.  
+
 Significant public stakes in this
 Research integrity and research censorship. Did her paper challenge google censorship. Appear that research got spiked, and this has profound impact on our understanding of the world
 Paper was critiquing large scale ML technologies, and tech at the core tech of Google search
@@ -39,7 +40,9 @@ Committed to giving workers social control
 Power retrenches. It doesn’t give up without a fight. From gaslighting to explicit racist profiling.
 Having all the accolades and all the acclaim does not protect us. Require sisterhood solidarity.
 Time for planning is over
+
 =========
+
 Deep skepticism of data having the ability to accurately reflect the world, even at low levels
 Alerted to concerns around AI boom around 2014. Commodification of ai tech. 
 Drive to take any random data set, any janky data set, make some model, and project out to the world
